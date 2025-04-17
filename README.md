@@ -1,6 +1,4 @@
- Here is the full content of a git repository's README file, including the "How To Sign Up To Dark Matter Market" guide and the legal disclaimer:
-
-# Dark Matter Market Educational Resource
+# Dark Matter Market URL
 
 This repository contains materials related to the Dark Matter Darknet Market (DMMM). The goal of this project is to provide an educational resource for studying darknet markets, specifically focusing on the functionality and features of the Dark Matter platform. All content is for research purposes only and does not constitute engagement in or endorsement of illicit activities.
 
